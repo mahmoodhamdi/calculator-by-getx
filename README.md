@@ -2,13 +2,17 @@
 
 Welcome to the Calculator App, a versatile Flutter project designed for effortless mathematical computations. This app is crafted with the powerful GetX state management solution, offering both light and dark themes for user preference.
 
-## Screenshots
-
-### Light and Dark Themes
+## Overview
 
 <div align="center">
-  <img src="assets/images/pngs/LightCalculator.png" alt="Light Calculator Screen" width="200"/>
-  <img src="assets/images/pngs/DarkCalculator.png" alt="Dark Calculator Screen" width="200"/>
+  <img src="assets/images/overview.png" alt="Light Calculator Screen" width="200"/>
+  </div>
+
+## Light and Dark Themes
+
+<div align="center">
+  <img src="assets/images/light.png" alt="Light Calculator Screen" width="200"/>
+  <img src="assets/images/dark.png" alt="Dark Calculator Screen" width="200"/>
 </div>
 
 ## Project Overview
